@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(135, 135, 182) ;
+  font-size: 20px;
+  font-family: 'Balsamiq Sans', cursive;
+} 
+.card {
+    background-color: white;
+    padding-top: 2%;
+}
+
+p {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+h2{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+#lanyardpic {
+    float: left;
+    height: auto;
+    width: 23%;
+    padding: 10px;
+    border-radius: 10%;
+}
+   
+#journey {
+    background-color: pink; 
+}
+    
+#escape {
+      float: right;
+      height:auto;
+      widows: 45%;
+      padding:10px;
+}
+
+#cartoon{
+    float: left;
+    widows: 25%;
+    padding-right: 20px;
+}
+
+#coach{
+  float: right;
+  widows: 25%;
+  padding-right: 20px;
+}
