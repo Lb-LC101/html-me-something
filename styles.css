@@ -35,7 +35,7 @@ h2{
 #escape {
       float: right;
       height:auto;
-      widows: 45%;
+      width: 250px;;
       padding:10px;
 }
 
@@ -44,9 +44,19 @@ h2{
     widows: 25%;
     padding-right: 20px;
 }
+#juniorO{
+    width:350px;
+}
 
+#featureTwirler{
+    width:150px;
+}
+  
 #coach{
   float: right;
   widows: 25%;
   padding-right: 20px;
 }
+@media (min-width: 600px) and (max-width: 800px) {
+    html { background: red; }
+  }
